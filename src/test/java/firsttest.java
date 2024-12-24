@@ -23,13 +23,21 @@ public class firsttest {
     @Test
     public void test6(){
         System.out.println("my 6th commit");
+    }
     @Test    
     public void test5()
     {
         System.out.println("my 5th test");
     }
+<<<<<<< Updated upstream
     @Test
     public void test7(){
         System.out.println("my 5th test");
+=======
+    @Test    
+    public void test8()
+    {
+        System.out.println("my 8th test");
+>>>>>>> Stashed changes
     }
 }
