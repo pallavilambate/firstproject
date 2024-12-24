@@ -21,7 +21,7 @@ public class firsttest {
         System.out.println("my 4th test");
     }
     @Test
-    public void test4()
+    public void test5()
     {
         System.out.println("my 5th test");
     }
