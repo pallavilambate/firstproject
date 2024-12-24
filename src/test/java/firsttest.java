@@ -28,4 +28,8 @@ public class firsttest {
     {
         System.out.println("my 5th test");
     }
+    @Test
+    public void test7(){
+        System.out.println("my 5th test");
+    }
 }
