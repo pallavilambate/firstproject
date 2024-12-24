@@ -23,5 +23,9 @@ public class firsttest {
     @Test
     public void test6(){
         System.out.println("my 6th commit");
+    @Test    
+    public void test5()
+    {
+        System.out.println("my 5th test");
     }
 }
