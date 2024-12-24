@@ -20,4 +20,9 @@ public class firsttest {
     {
         System.out.println("my 4th test");
     }
+    @Test
+    public void test4()
+    {
+        System.out.println("my 5th test");
+    }
 }
