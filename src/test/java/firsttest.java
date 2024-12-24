@@ -10,4 +10,9 @@ public class firsttest {
         System.out.println("my 2nd test");
         
     }
+    @Test
+    public void test3()
+    {
+        System.out.println("my 3rd test");
+    }
 }
