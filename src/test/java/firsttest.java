@@ -20,4 +20,8 @@ public class firsttest {
     {
         System.out.println("my 4th test");
     }
+    @Test
+    public void test6(){
+        System.out.println("my 6th commit");
+    }
 }
